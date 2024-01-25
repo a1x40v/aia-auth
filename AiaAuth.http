@@ -1,0 +1,6 @@
+@AiaAuth_HostAddress = http://localhost:5225
+
+GET {{AiaAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
